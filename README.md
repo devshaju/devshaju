@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaju Goni</h1>
+<img src="https://i.ibb.co.com/p6LGcVgz/Professional-Web-Developer-Workspace.png" alt="Professional Web Developer Workspace" border="0">
 <h3 align="center">Professional Web Designer & Developer | WordPress Expert. Helping businesses and creators build stunning, responsive, and functional websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaju&label=Profile%20views&color=0e75b6&style=flat" alt="devshaju" /> </p>
