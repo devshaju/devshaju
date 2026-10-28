@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaju&label=Profile%20views&color=0e75b6&style=flat" alt="devshaju" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p> -->
 
-<!-- <p align="left"> <a href="https://twitter.com/gonishaju" target="blank"><img src="https://img.shields.io/twitter/follow/gonishaju?logo=twitter&style=for-the-badge" alt="gonishaju" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/gonishaju" target="blank"><img src="https://img.shields.io/twitter/follow/gonishaju?logo=twitter&style=for-the-badge" alt="gonishaju" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
