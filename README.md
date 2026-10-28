@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co.com/TMLthQqr/Professional-Web-Designer-Developer-Banner.png" alt="Professional Web Designer Developer Banner" border="0">
 <h3 align="center">Professional Web Designer & Developer | WordPress Expert. Helping businesses and creators build stunning, responsive, and functional websites.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaju&label=Profile%20views&color=0e75b6&style=flat" alt="devshaju" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaju&label=Profile%20views&color=0e75b6&style=flat" alt="devshaju" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shajugoni1986@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1hNxKJz7N2DiOJF_t198BadDSbDgxQfy8/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1hNxKJz7N2DiOJF_t198BadDSbDgxQfy8/view?usp=sharing-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
