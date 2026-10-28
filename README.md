@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshaju&label=Profile%20views&color=0e75b6&style=flat" alt="devshaju" /> </p> 
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYYs1vl3WCWUNZ-4SwopzJC_y8P0TiZcf9s3ZkYn4iQ&s=10)"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p>
+<p align="left"> <a href="https://github.com/devshaju"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gonishaju" target="blank"><img src="https://img.shields.io/twitter/follow/gonishaju?logo=twitter&style=for-the-badge" alt="gonishaju" /></a> </p>
 
