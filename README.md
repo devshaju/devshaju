@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshaju" alt="devshaju" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gonishaju" target="blank"><img src="https://img.shields.io/twitter/follow/gonishaju?logo=twitter&style=for-the-badge" alt="gonishaju" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/gonishaju" target="blank"><img src="https://img.shields.io/twitter/follow/gonishaju?logo=twitter&style=for-the-badge" alt="gonishaju" /></a> </p> -->
 
-<!-- - 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **PHP, JS, HTML**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shajugoni1986@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1hNxKJz7N2DiOJF_t198BadDSbDgxQfy8/view?usp=sharing-->
+- 📄 Know about my experiences https://drive.google.com/file/d/1hNxKJz7N2DiOJF_t198BadDSbDgxQfy8/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
