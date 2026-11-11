@@ -1,9 +1,4 @@
 
-<!-- <p align="center">
-  <img src="https://i.ibb.co.com/TMLthQqr/Professional-Web-Designer-Developer-Banner.png"
-       alt="Professional Web Designer & Developer Banner"
-       width="100%" />
-</p> -->
 <img src="https://i.ibb.co.com/k2z18jVJ/Gemini-Generated-Image-coazmdcoazmdcoaz.jpg" alt="Gemini Generated Image coazmdcoazmdcoaz" border="0">
 
 <h3 align="center">
@@ -50,7 +45,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devshaju&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://wordpress.org/" target="_blank">
