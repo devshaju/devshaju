@@ -94,7 +94,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshaju&show_icons=true&locale=en" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=devshaju&show_icons=true&locale=en" alt="GitHub Stats" /> -->
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devshaju&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
