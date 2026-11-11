@@ -1,9 +1,10 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/TMLthQqr/Professional-Web-Designer-Developer-Banner.png"
        alt="Professional Web Designer & Developer Banner"
        width="100%" />
-</p>
+</p> -->
+<img src="https://i.ibb.co.com/k2z18jVJ/Gemini-Generated-Image-coazmdcoazmdcoaz.jpg" alt="Gemini Generated Image coazmdcoazmdcoaz" border="0">
 
 <h3 align="center">
   Professional Web Designer & Developer | WordPress Expert.
