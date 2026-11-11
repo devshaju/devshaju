@@ -45,8 +45,7 @@
   </a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devshaju&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://wordpress.org/" target="_blank">
@@ -90,7 +89,8 @@
 <h3 align="left">GitHub Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devshaju&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devshaju&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devshaju&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
